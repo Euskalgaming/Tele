@@ -1,4 +1,3 @@
 #EXTM3U
 #EXTINF:-1,TB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; …) Gecko/20100101 Firefox/57.0
-https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8#user-agent=Mozilla
+https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8?#user-agent=Mozilla
